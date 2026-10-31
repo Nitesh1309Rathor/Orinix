@@ -1,0 +1,6 @@
+{
+  "name": "ORIONIX — Vedic Skincare & Botanical Wellness",
+  "description": "Luxury Indian botanical skincare, artisanal combo kits, and holistic wellness rituals handcrafted with pure Ayurvedic botanicals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
